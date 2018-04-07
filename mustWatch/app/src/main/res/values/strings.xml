@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MustWatch</string>
+    <string name="title_popular">Popular</string>
+    <string name="title_to_watch">To Watch</string>
+    <string name="title_search">Search</string>
+    <string name="title_watched">Watched</string>
+    <string name="title_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

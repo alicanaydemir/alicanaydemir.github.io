@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_to_watch"
+        android:icon="@drawable/ic_add_circle_outline_black_24dp"
+        android:title="@string/title_to_watch" />
+
+    <item
+        android:id="@+id/navigation_watched"
+        android:icon="@drawable/ic_done_all_black_24dp"
+        android:title="@string/title_watched" />
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="@string/title_search" />
+
+    <item
+        android:id="@+id/navigation_popular"
+        android:icon="@drawable/ic_whatshot_black_24dp"
+        android:title="@string/title_popular" />
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_settings_applications_black_24dp"
+        android:title="@string/title_settings" />
+</menu>
