@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.aydemir.myapplication",
+    "package_name": "com.nakd.androidapp.preprod",
     "sha256_cert_fingerprints":
     ["09:CE:02:50:C7:20:4C:BA:22:4E:1D:0A:C0:5F:A0:EE:E4:5E:2B:40:84:91:F8:F8:AB:BC:3D:39:12:AF:86:3B"]
   }
