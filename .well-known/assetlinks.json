@@ -1,9 +1,50 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.nakd.androidapp.preprod",
-    "sha256_cert_fingerprints":
-    ["09:CE:02:50:C7:20:4C:BA:22:4E:1D:0A:C0:5F:A0:EE:E4:5E:2B:40:84:91:F8:F8:AB:BC:3D:39:12:AF:86:3B"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nakd.androidapp.preprod",
+      "sha256_cert_fingerprints": [
+        "09:CE:02:50:C7:20:4C:BA:22:4E:1D:0A:C0:5F:A0:EE:E4:5E:2B:40:84:91:F8:F8:AB:BC:3D:39:12:AF:86:3B"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nakd.androidapp",
+      "sha256_cert_fingerprints": [
+        "3E:77:20:D7:71:25:FF:C3:7F:63:68:8E:95:15:DB:84:24:1F:8C:20:DF:1C:A4:76:E2:71:3A:33:E5:BC:31:29"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nakd.androidapp",
+      "sha256_cert_fingerprints": [
+        "07:4E:51:3A:46:47:A1:05:B0:58:7A:B0:32:8C:C5:56:10:4C:90:4B:B1:6A:D1:C6:74:4A:E5:32:AE:12:BF:C4"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nakd.androidapp",
+      "sha256_cert_fingerprints": [
+        "09:CE:02:50:C7:20:4C:BA:22:4E:1D:0A:C0:5F:A0:EE:E4:5E:2B:40:84:91:F8:F8:AB:BC:3D:39:12:AF:86:3B"
+      ]
+    }
   }
-}]
+]
